@@ -10,8 +10,8 @@ A book recommendation system built with Python, featuring data analysis, sentime
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [How to run]
-- [Screenshots / Videos / Examples](#screenshots--examples)
+- [How to run](#how-to-run)
+- [Screenshots / Videos (Demo)](#screenshots--examples)
 - [Future Improvements](#future-improvements)
 
 
@@ -72,7 +72,7 @@ https://drive.google.com/file/d/1rNNC-hjhREG2F7RYnmA5Hgs5QbEpDt57/view?usp=share
 
 ## Future Improvements
 
-I'm still going with this small project. I will extend this project to a more complete product. I will later post this in the near future
+This is an ongoing project, and I plan to extend it into a more complete and production-ready product.
 
 
 
